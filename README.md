@@ -1,2 +1,2 @@
 # Information-Security
-This repo contains information security projects I have done
+This repo contains the Information Security projects I have done so far
